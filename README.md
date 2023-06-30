@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/main_logo.jpg">
-</p>
+<p align="center"><img src="images/main_logo.jpg"></p>
 
 # Description
 **GDBack** is a tool developed in Golang to extract relevant information about the system. This can be useful when performing an investigation on a computer. The collected data is stored in a sqlite file.
@@ -12,6 +10,9 @@
 Download the executable file in hxxp://... and run it as administrator, right click with the mouse and then Run as administrator.
 
 # Screenshots
+<p align="center"><img src="images/screenshot_windows_running.png"></p>
+</br>
+<p align="center"><img src="images/sqlite.png"></p>
 
 # Build
 
