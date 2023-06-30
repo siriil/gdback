@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="auto" height="300" src="images/main_logo.jpg">
+  <img width="auto" height="400" src="images/main_logo.jpg">
   <br>
   <h1 align="center">GDBack</h1>
   <br>
