@@ -27,4 +27,5 @@ go get github.com/gosuri/uiprogress
 ```
 go env -w GO111MODULE=off
 $Env:CGO_ENABLED = 1
+go build client_windows.go
 ```
