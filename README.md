@@ -7,7 +7,7 @@
 # Usage
 
 ## Windows
-Download the executable file in hxxp://... and run it as administrator, right click with the mouse and then Run as administrator.
+Download the executable file in [Client Windows v1.0.0](https://github.com/siriil/gdback/releases/download/v1.0.0/client_windows.exe) and run it as administrator, right click with the mouse and then Run as administrator.
 
 # Screenshots
 <p align="center"><img src="images/screenshot_windows_running.png"></p>
