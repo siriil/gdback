@@ -3,7 +3,7 @@
 </p>
 
 # Description
-GDBack is a tool developed in Golang to extract relevant information about the system. This information can be useful when performing an investigation on a computer. The collected information is stored in a sqlite file.
+GDBack is a tool developed in Golang to extract relevant information about the system. This can be useful when performing an investigation on a computer. The collected data is stored in a sqlite file.
 ### Features
  - Extracts all files from a disk or from a specific path with different parameters: their name, path, MD5 hash, size, modification and creation dates.
 # Usage
